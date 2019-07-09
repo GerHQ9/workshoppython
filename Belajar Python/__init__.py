@@ -1,0 +1,1 @@
+print ('dijalankan ketika package di import')
